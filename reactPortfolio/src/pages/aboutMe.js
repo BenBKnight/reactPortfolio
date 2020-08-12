@@ -31,13 +31,6 @@ export default function AboutMe(props) {
             points: "10/10"
         }
     ]
-
-    //     desc: "",
-    //     points:""
-    // },{
-    //     desc: "",
-    //     points:""
-    // },
     return (
         <div className="row">
             <CardWithPicture
