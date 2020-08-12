@@ -1,0 +1,14 @@
+.floatRight{
+    float: right;
+}
+
+@media(max-width: 1290px){
+    .floatRight{
+        float: none;
+    }
+}
+@media(max-width: 1290px){
+    .centerAlign{
+        text-align: center 
+    }
+}
