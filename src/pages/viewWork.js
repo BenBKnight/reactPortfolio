@@ -28,9 +28,9 @@ export default function ViewWork() {
                     colSize="col-sm"
                     header="CarFacts -- MVC/SQL"
                     title="Car App"
-                    p1="CarFacts was the pioneer of MyAutoSpace. This was the first project that intregrated databases, Model-
-                View-Controller concepts, and full-stack application. I loved seeing this project come to life and knowing that
-                I can make a living off projects like this."
+                    p1="CarFacts was the pioneer of MyAutoSpace. This was the first project that integrated databases, Model-
+                    View-Controller concepts, and full-stack application. I loved seeing this project come to life and knowing that
+                    I can make a living off projects like this."
                     p2="Skills: SQL, HandleBars, MVC, Authentication(Passport)"
 
                 >
@@ -44,7 +44,7 @@ export default function ViewWork() {
                     header="Employee Tracker -- React.js"
                     title="Employee Tracking sorting and tracking app"
                     p1="This was a fun and challenging application. This is when my love and enjoyment for React.js
-                    began. It was an oppertunity to utilize the modularity and freedom of React.js. After an entire course of 
+                    began. It was an opportunity to utilize the modularity and freedom of React.js. After an entire course of 
                     learning basics, it was exciting to learn a fresh language that was so robust and intricate."
                     p2="Skills: React.js"
                 >
@@ -63,7 +63,7 @@ export default function ViewWork() {
                     title="Dashboard App"
                     p1="This was the first project of my course. The purpose of this project was to practice getting 
                 information from api's. The requirement was for the group to use 2. My group decided to do two each. 
-                This was especailly helpful because not only did I gain experience writing my own code for API calls, but
+                This was especially helpful because not only did I gain experience writing my own code for API calls, but
                 I was able to see how three similarly skilled developers wrote theirs."
                     p2="Skills: Axios, JQuery, numerous libraries"
                 >
@@ -76,7 +76,7 @@ export default function ViewWork() {
                     colSize="col-sm"
                     header="Fitness Tracker -- MongoDB, Mongoose"
                     title="Fitness Tracking App"
-                    p1="The Fitness Tracker was a challenenging assignment. It was an introduction into MongoDB/NoSQL database. I
+                    p1="The Fitness Tracker was a challenging assignment. It was an introduction to MongoDB/NoSQL database. I
                     really enjoyed utilizing the aspects of a NoSQL database and look forward to deeper dives with similar 
                     databases."
                     p2="Skills: MongoDB Mongoose"
@@ -90,8 +90,8 @@ export default function ViewWork() {
                     colSize="col-sm"
                     header="Portfolio -- React.js"
                     title="This Portfolio"
-                    p1="I really do enjoy React.js. It is powerful, modular, and so intriging. I would love to keep utilizing
-                    it in the future. Although, I am open to all oppertunities that allow me to create any sort of applications."
+                    p1="I really do enjoy React.js. It is powerful, modular, and so intriguing. I would love to keep utilizing
+                    it in the future. Although, I am open to all opportunities that allow me to create any sort of applications."
                     p2="Skills: React.js"
                 >
                     <div className="centerAlign">
