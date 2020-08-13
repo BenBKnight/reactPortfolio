@@ -13,8 +13,8 @@ export default function ContactMe() {
                     colSize="col"
                     header="Contact Me"
                     title="Let's connect!"
-                    p1="I would love the oppertunity to connect, interview, and even show my skills in a technical interview"
-                    p2="If you are still tenitive on bringing me in or not, I can promise that there are few that can match my
+                    p1="I would love the opportunity to connect, interview, and even show my skills in a technical interview"
+                    p2="If you are still tentative on bringing me in or not, I can promise that there are few that can match my
                 work ethic and passion to build."
                     p3=""
                     p4=""
