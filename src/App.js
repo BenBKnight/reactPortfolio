@@ -17,6 +17,7 @@ function App() {
       </NavigationBar>
       <Switch>
         <Route exact path="/" component={Home} />
+        <Route exact path="/reactPortfolio" component={Home} />
         <Route exact path="/aboutMe" component={AboutMe} />
         <Route exact path="/contactMe" component={ContactMe} />
         <Route exact path="/viewWork" component={ViewWork} />

@@ -31,13 +31,6 @@ export default function AboutMe(props) {
             points: "10/10"
         }
     ]
-
-    //     desc: "",
-    //     points:""
-    // },{
-    //     desc: "",
-    //     points:""
-    // },
     return (
         <div className="row">
             <CardWithPicture
@@ -57,18 +50,10 @@ export default function AboutMe(props) {
                 colSize="col"
                 header="Background"
                 title="A history of hard work and perseverance"
-                p1="I started working at the age of 10. My father lost his job and 
-                    he fell on his backup plan, a pizza restuarant he had started with my uncles. 
-                    Money and time were tight, I was asked to join the resturaunt staff. At the age of 
-                    14, the restaurant went under and we moved into one of my grandfather's rental properties. 
-                    The agreement was our family would pay off the due rent by helping with maintenance. Since 
-                    I was the only one without an actual job, I fulfilled most of the agreement."
-                p2="I gained numerous invauable traits from my experiences, two most of all being working hard and
-                    passion to create."
-                p3='One of truest passions is creating. I love being able to learn how something is made, and making
-                    it myself. This goes from my own "Tiny Home," furniture, jewelry, metal scupltures, and now, coding.'
-                p4="I know that my can-do-attitude, relentless determination, ambition, and passion for coding will help
-                    you and your company"
+                p1="I started working at the age of 10. My father lost his job and he fell on his backup plan, a pizza restaurant he had started with my uncles. Money and time were tight, I was asked to join the restaurant staff. At the age of 14, the restaurant went under and we moved into one of my grandfather's rental properties. The agreement was our family would pay off the due rent by helping with maintenance. Since I was the only one without an actual job, I fulfilled most of the agreement."
+                p2="I gained numerous invaluable traits from my experiences, two most of all being working hard and passion to create."
+                p3='One of truest passions is creating. I love being able to learn how something is made, and making it myself. This goes from my own "Tiny Home," furniture, jewelry, metal sculptures, and now, coding.'
+                p4="I know that my can-do-attitude, relentless determination, ambition, and passion for coding will help you and your company"
             >
                 <Link className="btn btn-primary " to="/viewWork" role="button">Show Me!</Link>
             </MainCard>

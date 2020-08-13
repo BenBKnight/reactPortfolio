@@ -95,7 +95,7 @@ export default function ViewWork() {
                     p2="Skills: React.js"
                 >
                     <div className="centerAlign">
-                        <button className="btn btn-primary " role="button" onClick={() => (window.open("", "_blank"))}>Deployed Application</button>
+                        <Link className="btn btn-primary " role="button" to="/">Deployed Application</Link>
                         <button className="btn btn-primary floatRight" role="button" onClick={() => (window.open("https://github.com/BenBKnight/reactPortfolio", "_blank"))}>GitHub Repository</button>
                     </div>
                 </MainCard>
