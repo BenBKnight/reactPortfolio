@@ -20,8 +20,8 @@ export default function ViewWork() {
 
                 >
                     <div className="centerAlign">
-                        <button className="btn btn-primary " role="button" onClick={() => (window.open("https://agile-caverns-07594.herokuapp.com/", "_blank"))}>Deployed Application</button>
-                        <button className="btn btn-primary floatRight" role="button" onClick={() => (window.open("https://github.com/BenBKnight/myAutoSpace", "_blank"))}>GitHub Repository</button>
+                        <button className="btn btn-primary " role="button" onClick={() => (window.open("https://myautospace.herokuapp.com/", "_blank"))}>Deployed Application</button>
+                        <button className="btn btn-primary floatRight" role="button" onClick={() => (window.open("https://github.com/BenBKnight/myAutoSpace2", "_blank"))}>GitHub Repository</button>
                     </div>
                 </MainCard>
                 <MainCard
